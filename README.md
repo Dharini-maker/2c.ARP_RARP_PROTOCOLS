@@ -129,5 +129,5 @@ c.close()
 ![alt text](rarp.jpg)
 
 ## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully 
+Thus, the python program for simulating ARP/RARP protocols using TCP was successfully 
 executed.

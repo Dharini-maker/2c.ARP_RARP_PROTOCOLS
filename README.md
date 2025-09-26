@@ -126,7 +126,7 @@ c.close()
 ```
 
 ## OUTPUT -RARP
-![outrarp](https://github.com/user-attachments/assets/04841bba-920a-4fcf-92a8-e0f218b549b0)
+![alt text](rarp.jpg)
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 

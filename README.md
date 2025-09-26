@@ -69,8 +69,8 @@ c.close()
 ```
 
 ## OUTPUT - ARP
-![alt text](arp.jpg)
 
+![alt text](arp.jpg)
 
 
 ## PROGRAM - RARP

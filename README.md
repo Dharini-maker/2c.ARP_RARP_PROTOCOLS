@@ -69,7 +69,7 @@ c.close()
 ```
 
 ## OUTPUT - ARP
-![ouarp](https://github.com/user-attachments/assets/ba79d253-0614-4b45-9f91-9972c8293f63)
+![alt text](arp.jpg)
 
 
 
